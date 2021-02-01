@@ -1,1 +1,1 @@
-# Eco conrol bot
+# Eco control bot
