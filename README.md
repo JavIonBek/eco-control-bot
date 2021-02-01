@@ -1,1 +1,1 @@
-# jobs-in-navoi
+# Eco conrol bot
