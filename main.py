@@ -7,7 +7,7 @@ from telebot import types
 # sys.setdefaultencoding('utf-8')
 
 
-TOKEN = "1267246290:AAH0rqs5_Zhqf3MNu0NtpK3GrPvOc0Io7HU"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN, parse_mode='html')
 
 
