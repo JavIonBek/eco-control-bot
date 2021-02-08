@@ -63,6 +63,7 @@ def menu(message):
             markup.add(button_geo)
             markup.add(button_cancel)
             bot.send_message(chat_id=chat_id, text="Huquqbuzarlik qayd etilgan hudud geolokatsiyasini yuboring", reply_markup=markup)
+            
             # bot.register_next_step_handler(msg, handle_location)
     except Exception as e:
         print(repr(e))
